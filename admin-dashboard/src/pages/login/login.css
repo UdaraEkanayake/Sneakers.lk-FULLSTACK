@@ -1,0 +1,11 @@
+.back{
+    background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("https://i.ibb.co/C1qqjFj/18-180381-standard-data-src-popular-nike-shoes-wallpapers-desktop.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
